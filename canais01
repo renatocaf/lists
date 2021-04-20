@@ -1,0 +1,219 @@
+#EXTM3U
+
+
+===== ABERTOS
+
+#EXTINF:0 group-title="ABERTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:0 group-title="ABERTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",Record TV MG
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+#EXTINF:0 group-title="ABERTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",Record TV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:0 group-title="ABERTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png",SBT RJ
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?ChannelsON
+
+#EXTINF:0 group-title="ABERTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+
+#EXTINF:0 group-title="ABERTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:0 group-title="ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png",Rede Minas
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+
+
+===== FILMES E SÉRIES
+
+#EXTINF:0 group-title="FILMES E SÉRIES" tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2021/02/CINE-LIVRE-2-150x150.jpg",CINE LIVRE 2 | Filmes
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+
+#EXTINF:0 group-title="FILMES E SÉRIES" tvg-logo="https://canal29.weebly.com/uploads/1/0/5/3/105352943/editor/marca-dagua-transparente-no-canto-direito-da-tela-em-miniatura.png?1590361306",CANAL 29 | Séries Antigas
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w688155486.m3u8
+
+
+
+===== DESENHOS
+
+#EXTINF:0 group-title="DESENHOS" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:0 group-title="DESENHOS" tvg-logo="https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-15-12-44.png",GOSPEL CARTOON 
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w1120351118.m3u8
+
+#EXTINF:0 group-title="DESENHOS" tvg-logo="https://2.bp.blogspot.com/-ucaQnWdXy2M/WnOj1PfA7mI/AAAAAAABD1g/RUVOBTXOHvUFTjeIss2aofvNP_xT6VpewCLcBGAs/s1600/Logo%2BDisney_Junior.png",Disney Junior HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+
+#EXTINF:0 group-title="DESENHOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",Disney XD HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
+
+
+
+===== NOTÍCIAS
+
+#EXTINF:0 group-title="NOTÍCIAS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png",BAND NEWS
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist.m3u8
+
+#EXTINF:0 group-title="NOTÍCIAS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png",BAND NEWS
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w256789996.m3u8
+
+#EXTINF:0 group-title="NOTÍCIAS" tvg-logo="https://i.imgur.com/v4IFpRT.png",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF:0 group-title="NOTÍCIAS" tvg-logo="https://i.imgur.com/v4IFpRT.png",RECORD NEWS
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8
+
+
+
+===== RELIGIOSOS
+
+#EXTINF:0 group-title="RELIGIOSOS" tvg-logo="https://www.lyngsat-stream.com/logo/tv/bb/bible_explorations_tv.png",Bible Explorations TV
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorations.stream/playlist.m3u8?wowzasessionid=564882825
+
+#EXTINF:0 group-title="RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/proxy/Od6GiaZZCHPC_7cwE81I-JC-83AegLiYK4H8ORfT9n2lxx5vdhYgz3jQXib5O9zZk5Hh58JB_cj4YzDHEb0TooDw7XPWVgyVXi_x02fQamc4KImg2JKtUmxbyw6Y1al3",GOSPEL MOVIES TELEVISION 
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
+
+#EXTINF:0 group-title="RELIGIOSOS" tvg-logo="https://i.pinimg.com/originals/5f/c1/02/5fc102aa6fae8db45c942808ff5d72d4.png",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?ChannelsON
+
+#EXTINF:0 group-title="RELIGIOSOS" tvg-logo="https://pibcuritiba.org.br/wp-content/uploads/2016/07/rede-super-logo-tv.png",REDE SUPER
+http://api.new.livestream.com:80/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:0 group-title="RELIGIOSOS" tvg-logo="https://pibcuritiba.org.br/wp-content/uploads/2016/07/rede-super-logo-tv.png",REDE SUPER
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:0 group-title="RELIGIOSOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8
+
+
+
+===== ESPORTES
+
+#EXTINF:0 group-title="ESPORTES" tvg-logo="https://i.imgur.com/FW12yr4.png",ESPN EXTRA HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+
+#EXTINF:0 group-title="ESPORTES" tvg-logo="https://i.imgur.com/FW12yr4.png",ESPN EXTRA SD
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
+
+#EXTINF:0 group-title="ESPORTES" tvg-logo="https://i.imgur.com/FW12yr4.png",ESPN HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
+
+#EXTINF:0 group-title="ESPORTES" tvg-logo="https://i.imgur.com/FW12yr4.png",ESPN SD
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_360_av-b.m3u8
+
+#EXTINF:0 group-title="ESPORTES" tvg-logo="https://i.imgur.com/FW12yr4.png",ESPN 2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
+
+#EXTINF:0 group-title="ESPORTES" tvg-logo="https://i.imgur.com/FW12yr4.png",ESPN 2 SD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
+
+
+
+===== VARIEDADES
+
+#EXTINF:0 group-title="VARIEDADES" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",CATVE PR
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?ChannelsON
+
+#EXTINF:0 group-title="VARIEDADES" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+
+#EXTINF:0 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/Z7ObVfW.png",MasterTV 
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+
+#EXTINF:0 group-title="VARIEDADES" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:0 group-title="VARIEDADES" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",REDE BRASIL
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?ChannelsON
+
+#EXTINF:0 group-title="VARIEDADES" tvg-logo=""https://i.imgur.com/Mhumyod.png",Rede RC BA
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+#EXTINF:0 group-title="VARIEDADES" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",Retrô TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="VARIEDADES" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",TV Ambiental ES
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
+
+#EXTINF:0 group-title="VARIEDADES" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",TV Diário do Sertão PB
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+
+#EXTINF:0 group-title="VARIEDADES" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",TV Poços
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="VARIEDADES" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",TV Summer
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1820117447.m3u8
+
+#EXTINF:0 group-title="VARIEDADES" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",TVE
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:0 group-title="VARIEDADES" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",YEEAAH | Games
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+
+
+
+===== INTERNACIONAIS
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",3ABN KIDS
+https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/SQs/chunklist.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://i.imgur.com/5NMzvsc.png",Bloomberg TV
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",BLOOMBERG INTERNACIONAL
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",CANAL 26
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",Carolina TV | Chile
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",CBS NEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",DUBAI RACING 
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",DUBAI RACING 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",DW INTERNACIONAL
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",Multimedios | Mexico
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",OK54 | Trier
+https://s.ok54.de/ott/webstream/tv/webstream_720p/chunks.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",OK Kaiserslautern
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",UMAG TV | Chile
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",RAI NEWS
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/../../../598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",RT INTERNACIONAL
+http://rt-usa.secure.footprint.net:80/1105.m3u8
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",THE WEATHER CHANNEL
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
