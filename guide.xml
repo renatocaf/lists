@@ -1,11 +1,83 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="GLOBO">
-    <display-name lang="pt">GLOBO</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+  <channel id="ESPN EXTRA HD">
+    <display-name lang="pt">ESPN EXTRA HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="pt">ESPN 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN  HD">
+    <display-name lang="pt">ESPN  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISNEY JUNIOR HD">
+    <display-name lang="pt">DISNEY JUNIOR HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="DISNEY XD HD">
+    <display-name lang="pt">DISNEY XD HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RAI NEWS">
+    <display-name lang="pt">RAI NEWS</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Internacional de TV">
+    <display-name lang="pt">Rede Internacional de TV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="REDE SUPER">
+    <display-name lang="pt">REDE SUPER</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Shoptime">
+    <display-name lang="pt">Shoptime</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND NEWS">
+    <display-name lang="pt">BAND NEWS</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BLOOMBERG TV">
+    <display-name lang="pt">BLOOMBERG TV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">MTV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RECORD TV">
+    <display-name lang="pt">RECORD TV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RECORD TV MG">
+    <display-name lang="pt">RECORD TV MG</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RECORD NEWS">
+    <display-name lang="pt">RECORD NEWS</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede TV">
+    <display-name lang="pt">Rede TV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="REDE VIDA">
+    <display-name lang="pt">REDE VIDA</display-name>
+    <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="SBT">
     <display-name lang="pt">SBT</display-name>
     <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SBT RJ">
+    <display-name lang="pt">SBT RJ</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Globo">
+    <display-name lang="pt">TV Globo</display-name>
+    <url>http://www.meuguia.tv</url>
   </channel>
 </tv>
