@@ -2,7 +2,6 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="SBT">
     <display-name lang="pt">SBT</display-name>
-    <icon src="../canais/citytv.gif" />
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.clarotv.com.br.EK</url>
   </channel>
 </tv>
