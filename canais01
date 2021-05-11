@@ -211,6 +211,3 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/index_800_av-p.m3u8?sd=10&rebase=o
 
 #EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",VOICE OF AMERICA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-
-#EXTINF:0 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="CANAIS" pltv-subgroup="VARIADOS", HBO XTREME HD 10
-https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
