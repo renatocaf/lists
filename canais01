@@ -14,9 +14,6 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?ChannelsON
 
 #EXTINF:0 group-title="ABERTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
-
-#EXTINF:0 group-title="ABERTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-5.png",SBT 1
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
 #EXTINF:0 group-title="ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png",REDE MINAS
@@ -214,3 +211,6 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/index_800_av-p.m3u8?sd=10&rebase=o
 
 #EXTINF:0 group-title="INTERNACIONAIS" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",VOICE OF AMERICA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+#EXTINF:0 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="CANAIS" pltv-subgroup="VARIADOS", HBO XTREME HD 10
+http://vipeiptv.com:25461/jessica1/jessica1/758150
